@@ -33,7 +33,7 @@ div {
 }
 
 .red {
-    background-color: #f5805c;
+    background-color: #ff8888bc;
     text-align: right;
     margin-left: 50px;
     border-bottom: 3px;
@@ -41,7 +41,7 @@ div {
 }
 
 .blue {
-    background-color: #6996f0;
+    background-color: #98bbff;
     text-align: left;
     margin-right: 50px;
     border-right: 10px;
